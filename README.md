@@ -20,7 +20,7 @@ we're going to provide the scaffolding to ensure you're talking to the
 third-party authenticator and will set your expectations about what sort of
 data you might have available. At the end of this lab, you will have the
 ability to "extend" the application into creating user accounts (possibly
-leveraging what you know about Devise or `has_secure_password`).
+leveraging what you know about Devise or `has_secure_password`). 
 
 To start, we'll implement a simple authentication scheme, provided by Omniauth,
 called "developer." The code in the "developer" authenticator is designed to
